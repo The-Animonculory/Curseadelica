@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Curseadelica",
+    "description": "Biblically accurate Skyrim",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow",
+      "github/styyx1"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Overhaul",
+      "LOTD",
+      "Legacy of the Dragonborn",
+      "Simonrim",
+      "official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/main/banner.webp",
+      "readme": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_ec41892d-fa75-4b88-8dad-328f86bd6388",
+      "machineURL": "Curseadelica",
+      "discordURL": "https://discord.gg/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "Hash": "s1YIK1nxQik=",
+      "Size": 174968975,
+      "NumberOfArchives": 983,
+      "SizeOfArchives": 100705614375,
+      "NumberOfInstalledFiles": 343973,
+      "SizeOfInstalledFiles": 166751453743
+    },
+    "version": "3.23",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-11-29T22:45:48.000Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Curseadelica VR",
+    "description": "Biblically accurate SkyrimVR",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "Overhaul",
+      "LOTD",
+      "Legacy of the Dragonborn",
+      "Simonrim",
+      "official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
+      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Curseadelica%20VR.wabbajack_40282b90-e136-4d15-913c-ee949c94c782",
+      "machineURL": "CurseadelicaVR",
+      "discordURL": "https://discord.gg/xRrHRsb5e9"
+    },
+    "download_metadata": {
+      "Hash": "Y012b0s5+xs=",
+      "Size": 783580992,
+      "NumberOfArchives": 1287,
+      "SizeOfArchives": 110724583185,
+      "NumberOfInstalledFiles": 300426,
+      "SizeOfInstalledFiles": 176255375734
+    },
+    "version": "0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  }
+]
